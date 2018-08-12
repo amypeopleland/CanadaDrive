@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scene/Start.unity
+    guid: 497ab7fa739648b4596db2787c2e6455
+  - enabled: 1
+    path: Assets/Scene/NewGameOrContinue.unity
+    guid: 5696a25044976de4fa5600f87260f1f0
+  - enabled: 1
+    path: Assets/Scene/ChooseTheCar.unity
+    guid: 330aa71cb55cff34aadb817193ca4989
+  - enabled: 1
+    path: Assets/Scene/SelectLocation.unity
+    guid: aba87269c53423d4a8e5f9949b8532cc
+  - enabled: 1
+    path: Assets/Scene/ChoseLevel.unity
+    guid: c3463741c2c713c419aa5d437ff778fa
+  - enabled: 1
+    path: Assets/Scene/Road1.unity
+    guid: 9e56ec3a56c102e4f8c5de90e9b85951
+  - enabled: 1
+    path: Assets/Scene/Finish.unity
+    guid: eb2a8069ccf1b104e8f63891b2d90a2c
+  - enabled: 1
+    path: Assets/Scene/GameFail.unity
+    guid: 1422b3ca9d59d9445b0278f35a26da68
